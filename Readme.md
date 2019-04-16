@@ -1,0 +1,1 @@
+ Some summary methods to enhance our Application performance.
